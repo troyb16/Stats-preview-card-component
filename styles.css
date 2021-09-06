@@ -23,9 +23,16 @@ p {
     align-items: center;
     margin: auto;
     width: 75%;
+    border-radius: 5px;
 }
 
+.img {
+    border-radius: 0px 5px 5px 0px;
+}
 
+.heading {
+    
+}
 
 .insights {
     color: hsl(277, 64%, 61%);
@@ -39,9 +46,7 @@ h2 {
     color: hsla(0, 0%, 100%, 0.6);
 }
 
-.img {
-    filter: hsl(277, 64%, 61%);
-}
+
 
 .stats {
     
