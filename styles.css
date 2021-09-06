@@ -18,7 +18,14 @@ p {
 
 .card {
     background-color: hsl(244, 38%, 16%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 75%;
 }
+
+
 
 .insights {
     color: hsl(277, 64%, 61%);
@@ -30,4 +37,12 @@ h2 {
 
 .stats p {
     color: hsla(0, 0%, 100%, 0.6);
+}
+
+.img {
+    filter: hsl(277, 64%, 61%);
+}
+
+.stats {
+    
 }
