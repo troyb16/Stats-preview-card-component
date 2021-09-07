@@ -16,7 +16,7 @@ p {
     color: hsla(0, 0%, 100%, 0.75);
 }
 
-.card {
+.container {
     background-color: hsl(244, 38%, 16%);
     display: flex;
     justify-content: space-between;
@@ -30,10 +30,6 @@ p {
     border-radius: 0px 5px 5px 0px;
 }
 
-.heading {
-    
-}
-
 .insights {
     color: hsl(277, 64%, 61%);
 }
@@ -44,10 +40,4 @@ h2 {
 
 .stats p {
     color: hsla(0, 0%, 100%, 0.6);
-}
-
-
-
-.stats {
-    
 }
