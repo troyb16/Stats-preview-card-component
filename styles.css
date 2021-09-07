@@ -19,15 +19,6 @@ p {
 .container {
     background-color: hsl(244, 38%, 16%);
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: auto;
-    width: 75%;
-    border-radius: 5px;
-}
-
-.img {
-    border-radius: 0px 5px 5px 0px;
 }
 
 .insights {
