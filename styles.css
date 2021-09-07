@@ -35,8 +35,7 @@ p {
     color: hsl(0, 0%, 100%);
     list-style-type: none;
     display: flex;
-    justify-content: space-evenly;
-    align-items: stretch;
+    
 }
 
 
@@ -44,8 +43,7 @@ p {
 .stat-heading {
     color: hsla(0, 0%, 100%, 0.6);
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    
 }
 
 .box-1 {    
